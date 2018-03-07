@@ -25,10 +25,10 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-f", "--format", type=str, help="Specify an output format (sass, json, css or all)")
 parser.add_argument("-i", "--input", type=str, help="Specify an input directory")
 parser.add_argument("-o", "--output", type=str, help="Specify an output directory")
-parser.add_argument("-d", "--debug", help="Uses test data")
+parser.add_argument("-t", "--testing", help="Uses test data from testing folder")
 args = parser.parse_args()
 format = args.format if args.format else "all"
-debug = args.debug if args.debug else False
+testing = args.testing if args.testing else False
 
 ##########################################
 # VARS
@@ -61,7 +61,7 @@ with open('data/x11-colors.txt', 'r') as f:
     reader = csv.reader(f, delimiter='\t')
     x11_colors = list(reader)
 
-if debug:
+if testing:
     input_dir = "testing"
     output_dir = "testing"
 else:
