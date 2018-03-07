@@ -1,0 +1,188 @@
+/*********************************************
+ *  test.vim Color Scheme
+ *********************************************/
+
+ body {
+  color: #aaaaaa;
+  background: #1f1f1f;
+}
+
+.clear {
+}
+
+.Normal {
+  color: #aaaaaa;
+  background: #1f1f1f;
+}
+
+.Cursor {
+  background: #666666;
+}
+
+.VertSplit {
+  color: #808080;
+  background: #c2bfa5;
+}
+
+.Folded {
+  color: gold;
+  background: #4e4e4e;
+}
+
+.FoldColumn {
+  color: #d7af87;
+  background: #4e4e4e;
+}
+
+.IncSearch {
+  color: slategrey;
+  background: #f0e68c;
+}
+
+.ModeMsg {
+  color: #daa520;
+}
+
+.MoreMsg {
+  color: SeaGreen;
+}
+
+.NonText {
+  color: #add8e6;
+  background: #4e4e4e;
+}
+
+.Question {
+  color: springgreen;
+}
+
+.Search {
+  color: #f5deb3;
+  background: peru;
+}
+
+.SpecialKey {
+  color: #9acd32;
+}
+
+.StatusLine {
+  color: #999999;
+  background: #000000;
+}
+
+.StatusLineNC {
+  color: #999999;
+  background: #000000;
+}
+
+.Title {
+  color: #af5f5f;
+}
+
+.Visual {
+  color: #f0e68c;
+  background: #6b8e23;
+}
+
+.WarningMsg {
+  color: #fa8072;
+}
+
+.Comment {
+  color: #007f7f;
+}
+
+.Constant {
+  color: #ffa0a0;
+}
+
+.Identifier {
+  color: #98fb98;
+}
+
+.Statement {
+  color: #f0e68c;
+}
+
+.PreProc {
+  color: #af5f5f;
+}
+
+.Type {
+  color: #afaf5f;
+}
+
+.Special {
+  color: navajowhite;
+}
+
+.Ignore {
+  color: #666666;
+}
+
+.Todo {
+  color: orangered;
+  background: #d7ff00;
+}
+
+.Directory {
+}
+
+.ErrorMsg {
+}
+
+.LineNr {
+}
+
+.VisualNOS {
+}
+
+.WildMenu {
+}
+
+.DiffAdd {
+}
+
+.DiffChange {
+}
+
+.DiffDelete {
+}
+
+.DiffText {
+}
+
+.Underlined {
+}
+
+.Error {
+}
+
+.Pmenu {
+  color: #f6f3e8;
+  background: #444444;
+}
+
+.PmenuSel {
+  color: #000000;
+  background: #cae682;
+}
+
+.ColorColumn {
+  background: #2e2e2e;
+}
+
+.MatchParen {
+  background: #8b0000;
+}
+
+.lCursor {
+  background: Cyan;
+}
+
+.CursorLine {
+  background: #242424;
+}
+
+
+

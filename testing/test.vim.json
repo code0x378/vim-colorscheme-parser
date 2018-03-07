@@ -1,0 +1,354 @@
+{
+    "ColorColumn": {
+        "ctermbg": "#000080",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "#2e2e2e",
+        "guifg": "",
+        "term": ""
+    },
+    "Comment": {
+        "ctermbg": "",
+        "ctermfg": "#00af87",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#007f7f",
+        "term": ""
+    },
+    "Constant": {
+        "ctermbg": "",
+        "ctermfg": "#a52a2a",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#ffa0a0",
+        "term": ""
+    },
+    "Cursor": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "none",
+        "guibg": "#666666",
+        "guifg": "NONE",
+        "term": ""
+    },
+    "CursorLine": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "#242424",
+        "guifg": "",
+        "term": ""
+    },
+    "DiffAdd": {
+        "ctermbg": "#000080",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": ""
+    },
+    "DiffChange": {
+        "ctermbg": "#800080",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": ""
+    },
+    "DiffDelete": {
+        "ctermbg": "#008080",
+        "ctermfg": "#000080",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": "bold"
+    },
+    "DiffText": {
+        "ctermbg": "#800000",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": "bold"
+    },
+    "Directory": {
+        "ctermbg": "",
+        "ctermfg": "#00af87",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": ""
+    },
+    "Error": {
+        "ctermbg": "#800000",
+        "ctermfg": "#c0c0c0",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": "bold"
+    },
+    "ErrorMsg": {
+        "ctermbg": "#800000",
+        "ctermfg": "#c0c0c0",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": "bold"
+    },
+    "FoldColumn": {
+        "ctermbg": "NONE",
+        "ctermfg": "darkgrey",
+        "gui": "",
+        "guibg": "#4e4e4e",
+        "guifg": "#d7af87",
+        "term": ""
+    },
+    "Folded": {
+        "ctermbg": "NONE",
+        "ctermfg": "darkgrey",
+        "gui": "",
+        "guibg": "#4e4e4e",
+        "guifg": "gold",
+        "term": ""
+    },
+    "Identifier": {
+        "ctermbg": "",
+        "ctermfg": "#008080",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#98fb98",
+        "term": ""
+    },
+    "Ignore": {
+        "ctermbg": "",
+        "ctermfg": "darkgrey",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#666666",
+        "term": ""
+    },
+    "IncSearch": {
+        "ctermbg": "#008000",
+        "ctermfg": "#ffff00",
+        "gui": "",
+        "guibg": "#f0e68c",
+        "guifg": "slategrey",
+        "term": "NONE"
+    },
+    "LineNr": {
+        "ctermbg": "",
+        "ctermfg": "#808000",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": ""
+    },
+    "MatchParen": {
+        "ctermbg": "#808000",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "#8b0000",
+        "guifg": "",
+        "term": ""
+    },
+    "ModeMsg": {
+        "ctermbg": "",
+        "ctermfg": "#a52a2a",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#daa520",
+        "term": "NONE"
+    },
+    "MoreMsg": {
+        "ctermbg": "",
+        "ctermfg": "#005f00",
+        "gui": "",
+        "guibg": "",
+        "guifg": "SeaGreen",
+        "term": ""
+    },
+    "NonText": {
+        "ctermbg": "",
+        "ctermfg": "#000087",
+        "gui": "",
+        "guibg": "#4e4e4e",
+        "guifg": "#add8e6",
+        "term": "bold"
+    },
+    "Normal": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "#1f1f1f",
+        "guifg": "#aaaaaa",
+        "term": ""
+    },
+    "Pmenu": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "#444444",
+        "guifg": "#f6f3e8",
+        "term": ""
+    },
+    "PmenuSel": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "#cae682",
+        "guifg": "#000000",
+        "term": ""
+    },
+    "PreProc": {
+        "ctermbg": "",
+        "ctermfg": "#800080",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#af5f5f",
+        "term": ""
+    },
+    "Question": {
+        "ctermbg": "",
+        "ctermfg": "#008000",
+        "gui": "",
+        "guibg": "",
+        "guifg": "springgreen",
+        "term": ""
+    },
+    "Search": {
+        "ctermbg": "#0000ff",
+        "ctermfg": "#808080",
+        "gui": "",
+        "guibg": "peru",
+        "guifg": "#f5deb3",
+        "term": "NONE"
+    },
+    "Special": {
+        "ctermbg": "",
+        "ctermfg": "#800080",
+        "gui": "",
+        "guibg": "",
+        "guifg": "navajowhite",
+        "term": ""
+    },
+    "SpecialKey": {
+        "ctermbg": "",
+        "ctermfg": "#005f00",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#9acd32",
+        "term": ""
+    },
+    "Statement": {
+        "ctermbg": "",
+        "ctermfg": "#808000",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#f0e68c",
+        "term": ""
+    },
+    "StatusLine": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "none",
+        "guibg": "#000000",
+        "guifg": "#999999",
+        "term": "bold"
+    },
+    "StatusLineNC": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "none",
+        "guibg": "#000000",
+        "guifg": "#999999",
+        "term": "reverse"
+    },
+    "Title": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#af5f5f",
+        "term": ""
+    },
+    "Todo": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "#d7ff00",
+        "guifg": "orangered",
+        "term": ""
+    },
+    "Type": {
+        "ctermbg": "",
+        "ctermfg": "#008000",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#afaf5f",
+        "term": ""
+    },
+    "Underlined": {
+        "ctermbg": "",
+        "ctermfg": "#800080",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": "underline"
+    },
+    "VertSplit": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "none",
+        "guibg": "#c2bfa5",
+        "guifg": "#808080",
+        "term": "reverse"
+    },
+    "Visual": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "none",
+        "guibg": "#6b8e23",
+        "guifg": "#f0e68c",
+        "term": "reverse"
+    },
+    "VisualNOS": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": "bold"
+    },
+    "WarningMsg": {
+        "ctermbg": "",
+        "ctermfg": "#800000",
+        "gui": "",
+        "guibg": "",
+        "guifg": "#fa8072",
+        "term": ""
+    },
+    "WildMenu": {
+        "ctermbg": "#808000",
+        "ctermfg": "#000000",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": ""
+    },
+    "clear": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "",
+        "guifg": "",
+        "term": ""
+    },
+    "lCursor": {
+        "ctermbg": "",
+        "ctermfg": "",
+        "gui": "",
+        "guibg": "Cyan",
+        "guifg": "NONE",
+        "term": ""
+    }
+}
