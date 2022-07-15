@@ -37,6 +37,7 @@
 .IncSearch {
   color: slategrey;
   background: #f0e68c;
+  background: #008000;
 }
 
 .ModeMsg {
@@ -59,6 +60,7 @@
 .Search {
   color: #f5deb3;
   background: peru;
+  background: #0000ff;
 }
 
 .SpecialKey {
@@ -126,36 +128,50 @@
 }
 
 .Directory {
+  color: #00af87;
 }
 
 .ErrorMsg {
+  color: #c0c0c0;
+  background: #800000;
 }
 
 .LineNr {
+  color: #808000;
 }
 
 .VisualNOS {
 }
 
 .WildMenu {
+  color: #000000;
+  background: #808000;
 }
 
 .DiffAdd {
+  background: #000080;
 }
 
 .DiffChange {
+  background: #800080;
 }
 
 .DiffDelete {
+  color: #000080;
+  background: #008080;
 }
 
 .DiffText {
+  background: #800000;
 }
 
 .Underlined {
+  color: #800080;
 }
 
 .Error {
+  color: #c0c0c0;
+  background: #800000;
 }
 
 .Pmenu {
@@ -170,10 +186,12 @@
 
 .ColorColumn {
   background: #2e2e2e;
+  background: #000080;
 }
 
 .MatchParen {
   background: #8b0000;
+  background: #808000;
 }
 
 .lCursor {
